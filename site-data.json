@@ -2,26 +2,26 @@
   "business": {
     "name": "Colombia Auto Repair",
     "shortName": "Colombia Auto",
-    "tagline": "Expert Auto Mechanic in Dallas, TX",
+    "tagline": "Expert Auto Repair in Dallas, TX",
     "niche": "Auto Mechanic",
     "phone": "(214) 821-8118",
-    "address": "Dallas, TX",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 3:00 PM",
-    "ctaLabel": "Schedule Your Appointment",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "Colombia Auto Repair | Trusted Auto Mechanic in Dallas, TX",
-    "description": "Colombia Auto Repair in Dallas, TX provides expert auto repair and maintenance. From brakes to engines, we keep your vehicle running smoothly. Call us today!"
+    "description": "Colombia Auto Repair in Dallas, TX offers expert auto mechanic services including brake repair, engine diagnostics, oil changes, and more. Call (214) 821-8118 for reliable service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas’s Trusted Auto Repair Experts",
-      "headline": "Expert Auto Mechanic in Dallas, TX",
-      "subheadline": "Reliable, affordable, and professional auto repair services to keep you safely on the road.",
-      "primaryCta": "Schedule Service",
-      "secondaryCta": "Call (214) 821-8118"
+      "eyebrow": "Dallas' Trusted Auto Repair",
+      "headline": "Expert Auto Mechanic Services in Dallas, TX",
+      "subheadline": "Quality repairs and maintenance to keep your vehicle running smoothly.",
+      "primaryCta": "Call (214) 821-8118",
+      "secondaryCta": "Learn More"
     },
     "stats": [
       {
@@ -38,284 +38,283 @@
       },
       {
         "value": "100%",
-        "label": "Customer Satisfaction"
+        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality Service",
-        "title": "Comprehensive Auto Repair & Maintenance",
-        "body": "From brake repairs to engine diagnostics, our certified technicians use state-of-the-art equipment to ensure your vehicle performs at its best.",
+        "eyebrow": "Comprehensive Care",
+        "title": "Full-Service Auto Repair for Every Make and Model",
+        "body": "From routine oil changes to complex engine diagnostics, our certified technicians handle it all. We use state-of-the-art equipment to ensure your car gets the best care possible.",
         "bullets": [
           "Brake repair and replacement",
           "Engine diagnostics and repair",
-          "Oil changes and fluid checks",
-          "Tire rotation and alignment"
+          "Transmission services",
+          "AC and heating system repair"
         ],
         "reverse": false,
-        "cardLabel": "Our Promise",
-        "cardTitle": "Honest & Transparent",
-        "cardBody": "We provide upfront pricing and clear explanations so you know exactly what your car needs."
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Same-Day Service",
+        "cardBody": "Most repairs completed the same day so you can get back on the road quickly."
       },
       {
         "eyebrow": "Customer Focused",
-        "title": "Why Dallas Drivers Choose Us",
-        "body": "We combine technical expertise with exceptional customer service, ensuring every visit is stress-free and reliable.",
+        "title": "Transparent Communication and Fair Pricing",
+        "body": "We believe in honest upfront pricing and clear explanations of all repairs needed. No hidden fees, no unnecessary work.",
         "bullets": [
-          "Fast turnaround times",
-          "Competitive, fair pricing",
-          "Friendly, knowledgeable staff",
-          "Satisfaction guaranteed"
+          "Free estimates on all repairs",
+          "Detailed invoices with part and labor breakdowns",
+          "Warranty on parts and labor",
+          "Friendly and knowledgeable staff"
         ],
         "reverse": true,
-        "cardLabel": "Our Difference",
-        "cardTitle": "Convenience & Care",
-        "cardBody": "We offer shuttle service and loaner vehicles to minimize disruption to your day."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Worry-Free Repairs",
+        "cardBody": "Drive with confidence knowing your vehicle is in expert hands."
       }
     ],
-    "whyTitle": "Why Choose Colombia Auto Repair",
+    "whyTitle": "Why Choose Colombia Auto Repair?",
     "whyChooseUs": [
       {
-        "title": "Certified Technicians",
-        "description": "Our team is ASE-certified and undergoes continuous training to stay current with the latest automotive technology."
+        "title": "Expert Technicians",
+        "description": "Our team is ASE-certified and trained on the latest automotive technology."
       },
       {
-        "title": "State-of-the-Art Diagnostics",
-        "description": "We use advanced diagnostic tools to pinpoint issues quickly and accurately, saving you time and money."
+        "title": "Fast Turnaround",
+        "description": "We respect your time and aim to complete most repairs the same day."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees or surprise charges. We provide detailed estimates before any work begins."
+        "title": "Fair Pricing",
+        "description": "Competitive rates with no surprises — you approve all work before we begin."
       },
       {
-        "title": "Customer Satisfaction Guarantee",
-        "description": "Your satisfaction is our priority. We stand behind our work with a comprehensive warranty on parts and labor."
+        "title": "Customer Satisfaction",
+        "description": "We stand behind our work with a comprehensive warranty and friendly service."
       }
     ],
     "testimonials": [
       {
-        "quote": "Colombia Auto Repair saved me hundreds on a brake job compared to the dealership. Fast and honest service!",
-        "author": "Mike R.",
+        "quote": "I took my car in for a strange noise and they diagnosed it quickly. The repair was done the same day at a fair price. Highly recommend!",
+        "author": "Mike D.",
         "role": "Oak Lawn resident"
       },
       {
-        "quote": "I've been bringing my car here for years. They always explain what needs to be done and never upsell.",
-        "author": "Linda T.",
-        "role": "Lakewood homeowner"
+        "quote": "Great communication and honest advice. They could have upsold me but instead fixed only what was needed. Will be back!",
+        "author": "Lisa M.",
+        "role": "Bishop Arts District"
       },
       {
-        "quote": "Great experience! They diagnosed my check engine light quickly and fixed it at a fair price.",
-        "author": "Carlos M.",
-        "role": "Bishop Arts district"
+        "quote": "Been coming here for years. Always reliable, fast, and friendly. Best auto shop in Dallas.",
+        "author": "Carlos R.",
+        "role": "Pleasant Grove"
       }
     ],
     "cta": {
       "headline": "Ready to Get Your Car Serviced?",
-      "subheadline": "Schedule your appointment today and experience the Colombia Auto Repair difference.",
-      "primaryCta": "Book Now",
-      "secondaryCta": "Call (214) 821-8118"
+      "subheadline": "Call us today to schedule your appointment.",
+      "primaryCta": "Call (214) 821-8118",
+      "secondaryCta": "Get Directions"
     }
   },
   "servicesPage": {
-    "intro": "At Colombia Auto Repair in Dallas, TX, we offer a full range of auto repair and maintenance services to keep your vehicle running safely and efficiently."
+    "intro": "At Colombia Auto Repair, we offer a full range of auto repair and maintenance services for all makes and models. Our experienced technicians use advanced diagnostics and quality parts to keep your vehicle running at its best."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Brake Repair & Replacement",
+      "title": "Brake Repair and Replacement",
       "shortDescription": "Expert brake services to ensure your safety on the road.",
-      "longDescription": "Your brakes are your vehicle's most critical safety system. Our technicians inspect, repair, and replace brake pads, rotors, calipers, and more using high-quality parts. We ensure your brakes respond reliably in all conditions.",
+      "longDescription": "Your brakes are the most critical safety system on your vehicle. We inspect, repair, and replace brake pads, rotors, calipers, and more. Using premium parts and precise adjustments, we restore stopping power and peace of mind.",
       "benefits": [
         "Enhanced stopping power and safety",
         "Reduced noise and vibration",
-        "Longer brake system lifespan",
-        "Peace of mind on every drive"
+        "Extended brake system life",
+        "Competitive pricing with warranty"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We thoroughly inspect your brake system, including pads, rotors, lines, and fluid."
+          "description": "We thoroughly inspect brake pads, rotors, calipers, lines, and fluid."
         },
         {
-          "title": "Repair & Replacement",
-          "description": "Using premium parts, we replace worn components and ensure proper alignment and function."
+          "title": "Repair/Replace",
+          "description": "Worn components are replaced with high-quality parts and properly adjusted."
         },
         {
-          "title": "Testing",
-          "description": "We test your brakes on the road to confirm optimal performance and safety."
+          "title": "Test Drive",
+          "description": "We road-test the vehicle to ensure smooth and quiet braking."
         }
       ],
       "faqs": [
         {
           "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000-70,000 miles depending on driving habits and vehicle type."
+          "answer": "Typically every 30,000 to 70,000 miles depending on driving habits and vehicle type."
         },
         {
-          "question": "What are signs my brakes need service?",
-          "answer": "Squeaking, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
+          "question": "What are signs of brake trouble?",
+          "answer": "Squealing, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
         }
       ],
-      "slug": "brake-repair-replacement"
+      "slug": "brake-repair-and-replacement"
     },
     {
       "icon": "02",
-      "title": "Engine Diagnostics & Repair",
+      "title": "Engine Diagnostics and Repair",
       "shortDescription": "Accurate diagnostics and reliable engine repairs.",
-      "longDescription": "When your check engine light comes on or your vehicle runs rough, trust our advanced diagnostic equipment to pinpoint the issue. We repair everything from minor sensor replacements to major engine overhauls, using OEM-quality parts.",
+      "longDescription": "When your check engine light comes on or performance declines, our advanced diagnostic tools pinpoint the issue quickly. From sensor replacements to major engine overhauls, we provide efficient and lasting repairs.",
       "benefits": [
-        "Accurate problem identification",
-        "Improved fuel efficiency and performance",
-        "Prevention of costly future damage",
-        "Reliable, long-lasting repairs"
+        "Fast and accurate diagnostics",
+        "Improved fuel efficiency",
+        "Restored engine performance",
+        "Long-term reliability"
       ],
       "process": [
         {
-          "title": "Computer Scan",
-          "description": "We connect your vehicle to our diagnostic scanner to read error codes and live data."
+          "title": "Scan",
+          "description": "We connect diagnostic equipment to read error codes and live data."
         },
         {
-          "title": "In-Depth Analysis",
-          "description": "Our technicians interpret the data and perform additional tests to confirm the root cause."
+          "title": "Analyze",
+          "description": "Our technician interprets data to identify the root cause of the problem."
         },
         {
-          "title": "Repair & Verification",
-          "description": "We complete the necessary repairs and re-scan to ensure the issue is resolved."
+          "title": "Repair",
+          "description": "We perform necessary repairs using quality parts and test the system."
         }
       ],
       "faqs": [
         {
-          "question": "Can you diagnose a check engine light without an appointment?",
-          "answer": "Yes, we offer walk-in diagnostic services. Give us a call or stop by."
+          "question": "What does the check engine light mean?",
+          "answer": "It can indicate anything from a loose gas cap to a serious engine issue. We recommend a diagnostic scan."
         },
         {
-          "question": "What does an engine diagnostic cost?",
-          "answer": "Our diagnostic fee is $89, which is applied to any repairs you authorize."
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Typically 30 minutes to an hour, depending on the complexity."
         }
       ],
-      "slug": "engine-diagnostics-repair"
+      "slug": "engine-diagnostics-and-repair"
     },
     {
       "icon": "03",
-      "title": "Oil Changes & Fluid Services",
-      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
-      "longDescription": "Regular oil changes and fluid checks are vital for engine health. We use high-quality oils and filters to protect your engine, and we inspect all major fluids including coolant, transmission, brake, and power steering fluid.",
+      "title": "Oil Changes and Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes.",
+      "longDescription": "Regular oil changes are the simplest way to extend the life of your engine. We use high-quality oils and filters to protect your engine and maintain performance. We also offer multi-point inspections to catch issues early.",
       "benefits": [
         "Extended engine life",
         "Better fuel economy",
-        "Prevents overheating and wear",
-        "Complimentary multi-point inspection"
+        "Cleaner engine internals",
+        "Early detection of potential problems"
       ],
       "process": [
         {
-          "title": "Drain & Replace",
-          "description": "We drain old oil and replace it with the correct grade and amount for your vehicle."
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the oil filter."
         },
         {
-          "title": "Filter Change",
-          "description": "We install a new oil filter to ensure clean oil circulation."
+          "title": "Refill",
+          "description": "We add the correct grade and amount of fresh oil."
         },
         {
-          "title": "Fluid Check & Top-Off",
-          "description": "We check all other fluids and top them off as needed."
+          "title": "Inspection",
+          "description": "We check fluid levels, belts, hoses, and tire pressure."
         }
       ],
       "faqs": [
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 5,000-7,500 miles, but check your owner's manual."
+          "answer": "Every 3,000 to 5,000 miles for conventional oil, or up to 7,500 for synthetic."
         },
         {
-          "question": "Do you use synthetic oil?",
-          "answer": "Yes, we offer conventional and synthetic oil options to match your vehicle's needs."
+          "question": "What type of oil does my car need?",
+          "answer": "We recommend the manufacturer's specified viscosity, often 5W-30 or 0W-20."
         }
       ],
-      "slug": "oil-changes-fluid-services"
+      "slug": "oil-changes-and-routine-maintenance"
     },
     {
       "icon": "04",
-      "title": "Tire Rotation & Alignment",
-      "shortDescription": "Extend tire life and improve handling.",
-      "longDescription": "Proper tire maintenance ensures even wear, better fuel economy, and safer handling. We rotate your tires according to manufacturer recommendations and perform precision alignments to keep your vehicle tracking straight.",
+      "title": "AC and Heating System Repair",
+      "shortDescription": "Keep your cabin comfortable year-round.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair all climate control systems, from refrigerant leaks to blower motor failures. We ensure your system blows cold in summer and warm in winter.",
       "benefits": [
-        "Even tire wear and longer tread life",
-        "Improved gas mileage",
-        "Smoother ride and better handling",
-        "Reduced strain on suspension components"
+        "Comfortable driving in any weather",
+        "Proper defrosting for safety",
+        "Improved air quality",
+        "Energy-efficient operation"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We inspect tires for wear patterns, pressure, and damage."
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor, condenser, and hoses."
         },
         {
-          "title": "Rotation",
-          "description": "We rotate tires to the recommended positions to promote even wear."
+          "title": "Leak Detection",
+          "description": "We use UV dye and electronic detectors to find leaks."
         },
         {
-          "title": "Alignment",
-          "description": "Using laser alignment equipment, we adjust angles to factory specifications."
+          "title": "Repair and Recharge",
+          "description": "We repair components and recharge the system to manufacturer specs."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I rotate my tires?",
-          "answer": "Every 5,000 to 7,500 miles, or at each oil change."
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Usually due to low refrigerant from a leak or a faulty compressor."
         },
         {
-          "question": "Will alignment fix a pulling steering wheel?",
-          "answer": "Yes, misalignment often causes pulling. We'll adjust it so your car drives straight."
+          "question": "How often should I service my AC?",
+          "answer": "Every 2-3 years or if you notice reduced cooling."
         }
       ],
-      "slug": "tire-rotation-alignment"
+      "slug": "ac-and-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Local Auto Mechanic in Dallas",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe and mobile.",
+    "headline": "Your Trusted Auto Repair Shop in Dallas, TX",
+    "mission": "To provide honest, high-quality auto repair services that keep our customers safe and satisfied.",
     "story": [
-      "Colombia Auto Repair has been serving the Dallas community for over 15 years. Founded by a team of passionate mechanics, our shop was built on the principles of integrity, transparency, and technical excellence. We started as a small garage and grew through word-of-mouth because our customers trust us to treat them fairly.",
-      "Today, we continue to invest in the latest tools and training to service all makes and models. Whether it's a routine oil change or a complex engine repair, we approach every job with the same dedication. Our loyal customers return because they know we stand behind our work and genuinely care about their safety."
+      "Colombia Auto Repair was founded with a simple mission: deliver expert auto repair with integrity. Our team of certified technicians has decades of combined experience serving the Dallas community. We invest in the latest diagnostic tools and ongoing training to ensure every repair is done right.",
+      "We treat every customer like a neighbor, explaining repairs in plain language and offering fair, transparent pricing. Whether it's a simple oil change or a complex engine repair, we take pride in getting you back on the road safely. Our reputation is built on trust, quality, and reliability."
     ],
     "highlight": {
       "stat": "4.3",
-      "label": "Average Google Rating"
+      "label": "Google Rating"
     },
     "coreValues": [
       {
-        "title": "Honesty",
-        "description": "We never recommend unnecessary repairs and always explain your options clearly."
+        "title": "Integrity",
+        "description": "We always recommend only necessary repairs and provide upfront pricing."
       },
       {
         "title": "Quality",
-        "description": "We use premium parts and follow manufacturer specifications for every repair."
+        "description": "We use top-tier parts and follow manufacturer specifications."
       },
       {
-        "title": "Reliability",
-        "description": "We complete work on time and on budget, so you can get back on the road."
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority; we listen and communicate clearly."
       },
       {
-        "title": "Community",
-        "description": "We're proud to be a locally owned business that supports Dallas neighborhoods."
+        "title": "Expertise",
+        "description": "Continuous training and advanced tools keep us at the forefront of auto repair."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Colombia Auto Repair",
-    "subheadline": "Call us or stop by to schedule your service. We're here to help.",
+    "headline": "Get In Touch",
+    "subheadline": "We're here to help with all your auto repair needs.",
     "primaryCta": "Call (214) 821-8118",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Oak Lawn",
-      "Lakewood",
-      "Bishop Arts",
-      "Uptown",
-      "Deep Ellum"
+      "Bishop Arts District",
+      "Pleasant Grove",
+      "Highland Park"
     ]
   },
   "social_proof": {
     "rating": 4.3,
-    "reviews": ""
+    "reviews": null
   },
   "meta": {
     "niche": "Auto Mechanic",
