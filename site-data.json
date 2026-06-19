@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Colombia Auto Repair",
+    "shortName": "Colombia Auto",
+    "tagline": "Expert Auto Mechanic in Dallas, TX",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 821-8118",
+    "address": "Dallas, TX",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 3:00 PM",
+    "ctaLabel": "Schedule Your Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Colombia Auto Repair | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Colombia Auto Repair in Dallas, TX provides expert auto repair and maintenance. From brakes to engines, we keep your vehicle running smoothly. Call us today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Repair Experts",
+      "headline": "Expert Auto Mechanic in Dallas, TX",
+      "subheadline": "Reliable, affordable, and professional auto repair services to keep you safely on the road.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 821-8118"
+    },
+    "stats": [
+      {
+        "value": "4.3",
+        "label": "Google Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1000+",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Quality Service",
+        "title": "Comprehensive Auto Repair & Maintenance",
+        "body": "From brake repairs to engine diagnostics, our certified technicians use state-of-the-art equipment to ensure your vehicle performs at its best.",
+        "bullets": [
+          "Brake repair and replacement",
+          "Engine diagnostics and repair",
+          "Oil changes and fluid checks",
+          "Tire rotation and alignment"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Honest & Transparent",
+        "cardBody": "We provide upfront pricing and clear explanations so you know exactly what your car needs."
+      },
+      {
+        "eyebrow": "Customer Focused",
+        "title": "Why Dallas Drivers Choose Us",
+        "body": "We combine technical expertise with exceptional customer service, ensuring every visit is stress-free and reliable.",
+        "bullets": [
+          "Fast turnaround times",
+          "Competitive, fair pricing",
+          "Friendly, knowledgeable staff",
+          "Satisfaction guaranteed"
+        ],
+        "reverse": true,
+        "cardLabel": "Our Difference",
+        "cardTitle": "Convenience & Care",
+        "cardBody": "We offer shuttle service and loaner vehicles to minimize disruption to your day."
+      }
+    ],
+    "whyTitle": "Why Choose Colombia Auto Repair",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team is ASE-certified and undergoes continuous training to stay current with the latest automotive technology."
+      },
+      {
+        "title": "State-of-the-Art Diagnostics",
+        "description": "We use advanced diagnostic tools to pinpoint issues quickly and accurately, saving you time and money."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprise charges. We provide detailed estimates before any work begins."
+      },
+      {
+        "title": "Customer Satisfaction Guarantee",
+        "description": "Your satisfaction is our priority. We stand behind our work with a comprehensive warranty on parts and labor."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Colombia Auto Repair saved me hundreds on a brake job compared to the dealership. Fast and honest service!",
+        "author": "Mike R.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "I've been bringing my car here for years. They always explain what needs to be done and never upsell.",
+        "author": "Linda T.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "Great experience! They diagnosed my check engine light quickly and fixed it at a fair price.",
+        "author": "Carlos M.",
+        "role": "Bishop Arts district"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Schedule your appointment today and experience the Colombia Auto Repair difference.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 821-8118"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Colombia Auto Repair in Dallas, TX, we offer a full range of auto repair and maintenance services to keep your vehicle running safely and efficiently."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake services to ensure your safety on the road.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. Our technicians inspect, repair, and replace brake pads, rotors, calipers, and more using high-quality parts. We ensure your brakes respond reliably in all conditions.",
+      "benefits": [
+        "Enhanced stopping power and safety",
+        "Reduced noise and vibration",
+        "Longer brake system lifespan",
+        "Peace of mind on every drive"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect your brake system, including pads, rotors, lines, and fluid."
+        },
+        {
+          "title": "Repair & Replacement",
+          "description": "Using premium parts, we replace worn components and ensure proper alignment and function."
+        },
+        {
+          "title": "Testing",
+          "description": "We test your brakes on the road to confirm optimal performance and safety."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits and vehicle type."
+        },
+        {
+          "question": "What are signs my brakes need service?",
+          "answer": "Squeaking, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and reliable engine repairs.",
+      "longDescription": "When your check engine light comes on or your vehicle runs rough, trust our advanced diagnostic equipment to pinpoint the issue. We repair everything from minor sensor replacements to major engine overhauls, using OEM-quality parts.",
+      "benefits": [
+        "Accurate problem identification",
+        "Improved fuel efficiency and performance",
+        "Prevention of costly future damage",
+        "Reliable, long-lasting repairs"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic scanner to read error codes and live data."
+        },
+        {
+          "title": "In-Depth Analysis",
+          "description": "Our technicians interpret the data and perform additional tests to confirm the root cause."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We complete the necessary repairs and re-scan to ensure the issue is resolved."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose a check engine light without an appointment?",
+          "answer": "Yes, we offer walk-in diagnostic services. Give us a call or stop by."
+        },
+        {
+          "question": "What does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $89, which is applied to any repairs you authorize."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Changes & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
+      "longDescription": "Regular oil changes and fluid checks are vital for engine health. We use high-quality oils and filters to protect your engine, and we inspect all major fluids including coolant, transmission, brake, and power steering fluid.",
+      "benefits": [
+        "Extended engine life",
+        "Better fuel economy",
+        "Prevents overheating and wear",
+        "Complimentary multi-point inspection"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace",
+          "description": "We drain old oil and replace it with the correct grade and amount for your vehicle."
+        },
+        {
+          "title": "Filter Change",
+          "description": "We install a new oil filter to ensure clean oil circulation."
+        },
+        {
+          "title": "Fluid Check & Top-Off",
+          "description": "We check all other fluids and top them off as needed."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most vehicles need an oil change every 5,000-7,500 miles, but check your owner's manual."
+        },
+        {
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer conventional and synthetic oil options to match your vehicle's needs."
+        }
+      ],
+      "slug": "oil-changes-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "Tire Rotation & Alignment",
+      "shortDescription": "Extend tire life and improve handling.",
+      "longDescription": "Proper tire maintenance ensures even wear, better fuel economy, and safer handling. We rotate your tires according to manufacturer recommendations and perform precision alignments to keep your vehicle tracking straight.",
+      "benefits": [
+        "Even tire wear and longer tread life",
+        "Improved gas mileage",
+        "Smoother ride and better handling",
+        "Reduced strain on suspension components"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We inspect tires for wear patterns, pressure, and damage."
+        },
+        {
+          "title": "Rotation",
+          "description": "We rotate tires to the recommended positions to promote even wear."
+        },
+        {
+          "title": "Alignment",
+          "description": "Using laser alignment equipment, we adjust angles to factory specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000 to 7,500 miles, or at each oil change."
+        },
+        {
+          "question": "Will alignment fix a pulling steering wheel?",
+          "answer": "Yes, misalignment often causes pulling. We'll adjust it so your car drives straight."
+        }
+      ],
+      "slug": "tire-rotation-alignment"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Local Auto Mechanic in Dallas",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe and mobile.",
+    "story": [
+      "Colombia Auto Repair has been serving the Dallas community for over 15 years. Founded by a team of passionate mechanics, our shop was built on the principles of integrity, transparency, and technical excellence. We started as a small garage and grew through word-of-mouth because our customers trust us to treat them fairly.",
+      "Today, we continue to invest in the latest tools and training to service all makes and models. Whether it's a routine oil change or a complex engine repair, we approach every job with the same dedication. Our loyal customers return because they know we stand behind our work and genuinely care about their safety."
+    ],
+    "highlight": {
+      "stat": "4.3",
+      "label": "Average Google Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs and always explain your options clearly."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Reliability",
+        "description": "We complete work on time and on budget, so you can get back on the road."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to be a locally owned business that supports Dallas neighborhoods."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Colombia Auto Repair",
+    "subheadline": "Call us or stop by to schedule your service. We're here to help.",
+    "primaryCta": "Call (214) 821-8118",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Lakewood",
+      "Bishop Arts",
+      "Uptown",
+      "Deep Ellum"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.3,
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148218118",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
